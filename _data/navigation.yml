@@ -3,16 +3,16 @@ main:
 
 
   - title: "Education"
-    url: /talks/    
+    url: /education/    
 
   - title: "Profession"
-    url: /teaching/    
+    url: /profession/    
     
   - title: "Publications"
     url: /publications/    
     
   - title: "Daily Life"
-    url: /markdown/
+    url: /dailylife/
 
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
