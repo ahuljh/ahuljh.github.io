@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
-
 Biography
 ======
-我叫刘金辉，出生于1997年，来自山东，是一名大数据开发工程师（Java），从事大数据相关的平台、业务、数仓开发工作。我本科于2019年毕业于[山东科技大学-USTSD](https://www.sdust.edu.cn/)，所学的专业是计算机科学与技术（大数据方向）；硕士于2022年在[安徽大学-AHU](https://www.ahu.edu.cn/)毕业，专业是软件工程，研究方向是零样本学习，硕士期间在[科大讯飞股份有限公司](https://www.iflytek.com/)有一段五个月的实习经历，从事与kafka相关的工作。目前就职于[杭州硕磐智能科技有限公司](https://www.boulderaitech.com/)。
-我的pdf版简历可以由此下载：
+
+My name is Liu Jinhui, born in 1997, hailing from Shandong. I am a Big Data Development Engineer proficient in Java, engaged in the development of big data platforms, business systems, and data warehouses. I earned my Bachelor's degree in Computer Science and Technology with a focus on Big Data from [Shandong University of Science and Technology (USTSD)](https://www.sdust.edu.cn/) in 2019. I furthered my studies with a Master's degree in Software Engineering from [Anhui University (AHU)](https://www.ahu.edu.cn/) in 2022, where my research focused on zero-shot learning. During my master's program, I had a five-month internship experience at [iFLYTEK Co., Ltd.](https://www.iflytek.com/), where I worked on projects related to Kafka. Currently, I am employed at [BoulderAI Technology Co., Ltd.]((https://www.boulderaitech.com/)) in Hangzhou.
+
+You can download my resume in PDF format from this link: [刘金辉的简历](../assets/Curriculum_Vitae.pdf)
 
 
 
@@ -28,13 +28,13 @@ Technology Stack
 
 Skills
 ------
-- 熟悉debezium+kafka connect实现常见数据库cdc的容器化部署及相关配置实现
+- 熟悉debezium+kafka connect实现常见数据库cdc的容器化部署及相关配置
 
 
 Recent News
 =====
-1. 发表的专利《一种数据探查方法、装置、服务器及存储介质》进入实审阶段 2023.03
-1. 整理的文章《Data Fabric》被公开
+1. 发表的专利《一种数据探查方法、装置、服务器及存储介质》进入实审阶段 2024.03
+1. 整理的文章《Data Fabric》被公开 2023.12
 1. Github个人开源项目audoddl v2.0正式发布
 
 
