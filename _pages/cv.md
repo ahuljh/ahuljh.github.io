@@ -46,22 +46,13 @@ redirect_from:
 
 相关奖项
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+相关奖项
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ * 软件技能
+  * 蓝桥杯
+  * 齐鲁软件大赛
+ * 数据挖掘与建模
+  * 全国大学生数学建模竞赛山东赛区一等奖
+  * 美国大学生数学建模竞赛
+  * 全国研究生数学建模竞赛
+
