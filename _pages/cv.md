@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,39 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 硕士研究生 （2019.9-2022.6）-安徽大学
+* 院系专业：计算机科学与技术学院 软件工程
+  * 主修课程：《大数据与数据挖掘》
+  * 研究方向: 零样本学习/领域自适应/生成式对抗学习/迁移学习
 
-Work experience
+* 成绩
+  * 综合排名：前20%
+  * 发表EI国际会议、SCI期刊论文2篇，发明专利1篇
+  * 在校三年获得一二等奖学金、优秀共青团员等称号
+
+## 本科（2015.9-2019.6）-山东科技大学
+* 院系专业：电气信息系 计算机科学与技术
+  * 主修课程：Docker与虚拟化、Hadoop
+  * 研究方向: 大数据与数据挖掘
+    
+* 成绩
+  * 综合排名：前10%
+  * 通过CET4、6级，发表国家级论文2篇
+  * 获得一二等奖学金、科技创新拔尖人才、优秀社团干部等称号  
+
+相关技能证书
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 软件技能
+  * 蓝桥杯
+  * 齐鲁软件大赛
+  * 软考-软件设计师
+  * 软考-数据库系统工程师
+* 数据分析
+  * MS Office 二级证书
+* 英语水平
+  * 英语4、6级
+  * PETS3级
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+相关奖项
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
