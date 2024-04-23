@@ -9,14 +9,16 @@ redirect_from:
 
 职业经历
 =========
-## 杭州硕磐智能科技有限公司
+# 杭州硕磐智能科技有限公司（22.6-至今）
 
 * 公司和产品介绍：
    * [数字化转型](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
 * 工作经历
   * 负责平台开发
 * 相关项目经历
-**时间线** 在硕磐智能的主要经历.
+
+
+** 在硕磐智能的主要经历**
 {: .notice}
 
 | Entry            | Item   |           Work                                                   |
@@ -25,7 +27,16 @@ redirect_from:
 | [数据集成平台](#)    | 23.10-24.2   | 离线和实时数据集成、元数据管理                        |
 | [数据探查平台e](#)     | 23.4-24.7  | Description of the item in the list                          |
 
-## 科大讯飞股份有限公司
+## 项目介绍
+
+### 数据产品
+* 主要负责
+
+### 数据集成平台
+* 主要负责
+
+
+# 科大讯飞股份有限公司（21.4-21.9）
 
 * 公司和产品介绍：
    * [数字化转型](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
