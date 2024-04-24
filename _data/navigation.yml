@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Education"
-    url: /cv/    
+    url: /education/
 
   - title: "Profession"
-    url: /markdown/    
+    url: /profession/
     
   - title: "Publications"
-    url: /year-archive/    
+    url: /publications/
     
   - title: "Daily Life"
     url: /terms/
